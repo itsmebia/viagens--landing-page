@@ -27,7 +27,7 @@ Siga os passos abaixo para configurar e visualizar o projeto em sua máquina loc
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone <https://github.com/itsmebia/viagens--landing-page>
     cd tripme-landing-page
     ```
 
